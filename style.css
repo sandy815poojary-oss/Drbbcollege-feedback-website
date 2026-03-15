@@ -1,0 +1,82 @@
+body{
+
+font-family:Arial;
+margin:0;
+background:#f4f4f4;
+
+}
+
+header{
+
+background:#002855;
+color:white;
+padding:15px;
+
+display:flex;
+justify-content:space-between;
+
+}
+
+nav a{
+
+color:white;
+margin:10px;
+text-decoration:none;
+
+}
+
+.hero{
+
+text-align:center;
+padding:100px;
+background:linear-gradient(45deg,#005bea,#00c6fb);
+color:white;
+
+}
+
+.btn{
+
+padding:12px 25px;
+background:white;
+color:black;
+text-decoration:none;
+
+}
+
+.login-box{
+
+width:300px;
+margin:100px auto;
+background:white;
+padding:30px;
+box-shadow:0 0 10px gray;
+
+}
+
+input,select,textarea{
+
+width:100%;
+margin:10px 0;
+padding:10px;
+
+}
+
+button{
+
+background:#005bea;
+color:white;
+padding:10px;
+border:none;
+cursor:pointer;
+
+}
+
+.form{
+
+width:400px;
+margin:100px auto;
+background:white;
+padding:30px;
+box-shadow:0 0 10px gray;
+
+}
